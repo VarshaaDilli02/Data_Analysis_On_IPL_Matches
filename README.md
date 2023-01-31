@@ -1,7 +1,5 @@
 # Data_Analysis_On_IPL_Matches
 
-# StockPrice_Analysis_and_Prediction-AWS
-
 Sports play a very important role in the development of the human persona. Involving in games like cricket helps us to build our character, confidence, fitness, etc. One such event is IPL. Indian Premier League(IPL) is the most popular sports event in India with huge amount of cash flow on and off pitch. This project provides a detailed analysis of the IPL dataset and visualises the various features required for the selection of the IPL teams. The score prediction was also made for the individual players.
 
 AIM:
